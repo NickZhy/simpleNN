@@ -1,3 +1,3 @@
 ## simpleNN
 
-This neural network is created for fun~
+A simple and naive neural network for fun~
